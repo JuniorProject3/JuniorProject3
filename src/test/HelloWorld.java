@@ -12,7 +12,7 @@ public class HelloWorld {
 			System.out.println(i);
 		}
 		
-		
+		// Tamás szombat este
 		//Bálint szombat este
 		//Bálint szombat este
 	}
