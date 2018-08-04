@@ -6,11 +6,6 @@ public class HelloValami {
 		String world = "Hello Valami";
 		System.out.println(world);
 		
-		//HelloValami --> testbranch
-		//HelloValami --> testbranch
-		//HelloValami --> testbranch
-		//HelloValami --> testbranch
-		//HelloValami --> testbranch
 	}
 
 }
