@@ -12,16 +12,8 @@ public class HelloWorld {
 			System.out.println(i);
 		}
 		
-		//asd
+		//Bálint teszt
 		
-		//Tamaspróba
-		//próba commit
-		//tesztelés
-		//teszt23333
-		//esti próba
-		//asd
-		//próba123
-		//próba123
 	}
 
 }
