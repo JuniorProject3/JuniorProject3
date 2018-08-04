@@ -12,7 +12,7 @@ public class HelloWorld {
 			System.out.println(i);
 		}
 		
-		// PLUSZ EGY SOR
+		// PLUSZ EGY SOR12
 		// SZOMBAT ESTE
 		
 		
