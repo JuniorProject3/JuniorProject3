@@ -12,6 +12,11 @@ public class HelloWorld {
 			System.out.println(i);
 		}
 		
+		
+		// Tamás próba
+		
+		
+		
 		//asd
 		
 		//Tamaspróba
