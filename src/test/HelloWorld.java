@@ -12,21 +12,8 @@ public class HelloWorld {
 			System.out.println(i);
 		}
 		
-		// PLUSZ EGY SOR12
-		// SZOMBAT ESTE
 		
-		
-		
-		//asd
-		
-		//Tamaspróba
-		//próba commit
-		//tesztelés
-		//teszt23333
-		//esti próba
-		//asd
-		//próba123
-		//próba123
+		//Bálint szombat este
 	}
 
 }
