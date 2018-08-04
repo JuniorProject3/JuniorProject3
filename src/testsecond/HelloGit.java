@@ -8,6 +8,8 @@ public class HelloGit {
 		for (int i = 0; i < world.length(); i++) {
 			System.out.print(world.charAt(i));
 		}
+
+		System.out.println(world);
 	}
 
 }
