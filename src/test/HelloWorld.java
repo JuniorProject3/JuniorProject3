@@ -12,8 +12,9 @@ public class HelloWorld {
 			System.out.println(i);
 		}
 		
-		//Bálint teszt
 		
+		//Bálint teszt
+		//Bálint teszt
 	}
 
 }
