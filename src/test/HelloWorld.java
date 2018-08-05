@@ -14,6 +14,8 @@ public class HelloWorld {
 		
 		//próba
 		
+		//Ádám próba
+		
 		//Bálint próba
 		//Bálint próba
 		
