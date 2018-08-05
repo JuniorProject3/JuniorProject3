@@ -14,6 +14,8 @@ public class HelloWorld {
 		
 		//próba
 		
+		//Bálint próba
+		
 		//Vasárnap reggeli próba
 		
 		// Tamás szombat este
