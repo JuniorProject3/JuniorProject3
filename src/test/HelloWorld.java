@@ -12,6 +12,8 @@ public class HelloWorld {
 			System.out.println(i);
 		}
 		
+		//próba
+		
 		//Vasárnap reggeli próba
 		
 		// Tamás szombat este
