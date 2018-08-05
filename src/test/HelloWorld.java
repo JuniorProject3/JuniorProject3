@@ -12,18 +12,20 @@ public class HelloWorld {
 			System.out.println(i);
 		}
 		
-		//próba
+		//AndrÃ¡s prÃ³ba
 		
-		//Ádám próba
+		//prï¿½ba
 		
-		//Bálint próba
-		//Bálint próba
+		//ï¿½dï¿½m prï¿½ba
 		
-		//Vasárnap reggeli próba
+		//Bï¿½lint prï¿½ba
+		//Bï¿½lint prï¿½ba
 		
-		// Tamás szombat este
-		//Bálint szombat este
-		//Bálint szombat este
+		//Vasï¿½rnap reggeli prï¿½ba
+		
+		// Tamï¿½s szombat este
+		//Bï¿½lint szombat este
+		//Bï¿½lint szombat este
 	}
 
 }
